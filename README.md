@@ -8,6 +8,10 @@ Read simulator for nanopore DRS datasets.
 
 `pip install git+git://github.com/bartongroup/yanosim`
 
+alternatively, your Linux distribution may offer yanosim directly. On Debian and Ubuntu systems try
+
+`sudo apt install yanosim`
+
 ## Usage:
 
 ### `model`:
